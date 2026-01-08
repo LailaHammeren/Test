@@ -1,2 +1,2 @@
 # Test
-Første editering av REDME
+Første editering av README
